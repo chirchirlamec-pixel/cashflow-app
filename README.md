@@ -1,3 +1,4 @@
+
 # cashflow.site
 
 Open index.html in a browser. Files: index.html (site), admin.html (admin dashboard prototype), calculator.html, logo.svg / logo.png (full logo), logo-mark.svg / logo-mark.png (icon).
